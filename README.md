@@ -12,5 +12,5 @@ Submission for the [Kaggle Spaceship Titanic Competition](https://www.kaggle.com
 * sklearn
 
 ## Score
-
+![score_image](./images/score.png)
 
